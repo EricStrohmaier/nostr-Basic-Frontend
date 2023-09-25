@@ -1,6 +1,33 @@
+
 #root {
   width: 100%;
-  max-width: 70ch;
   margin: 0 auto;
-  padding: 2rem;
+  
+}
+
+/* Define CSS variables for themes */
+:root {
+  --text: #0c0e0c;
+  --background: #fafaf9;
+  --primary: #aab3b6;
+  --secondary: #d7e3d3;
+  --accent: #5b818f;
+}
+
+/* Dark theme styles */
+.dark {
+  --text: #f1f3f1;
+  --background: #060605;
+  --primary: #495255;
+  --secondary: #202c1c;
+  --accent: #7096a4;
+}
+
+/* Apply CSS variables to body */
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  color: var(--text);
+  background-color: var(--background);
 }

@@ -1,0 +1,46 @@
+thoughts about project:
+nostrHub.co
+nostWork.net
+
+
+sounds like pornhub accutally hahah ther could be a section that i would be happy to sell the domain 
+(you could see who is a active nostr user   trusted user)
+(what links they post? their lists?)
+
+
+nostWork.net => 
+
+a client that is more for producing instead of consuming 
+creater client? 
+
+what it should be able to do?
+ - having maybe a block system where you cant acces the feed   like setting a schleude for yourself
+ - focusing on creating some links for creating a fanbase or etc`?
+ - long and short format content   seeing popular hashtags?
+ - having a feed where you can say extra yes?  adding them to the feed list (only your followers?) 
+ - seeing no likes on posts  no zaps but the options are there   and no follower buttons ....
+
+start where? 
+build basic simple ui for all the functionality  mokup? [find design  color theme? ok => ]
+learn how to connect to relays and how basic create delete like send stats functions work 
+i need for this client all the basic client functions like 
+commenting,
+liking,
+eatured names, 
+etch hashtags, 
+follow button unfollow button,
+edit relays?,
+edit profile?,
+build user profile(less discracting?)
+
+displaying the feed/schleudeing the feed? how will that work?
+
+creating communitys? what about brodcasting your tweets?
+
+creating the feed list=> witch feed do you want to see choose carefull? build a list of followers and then add to list or remove from list? 
+posting long and short form content ? an option ? posting in my groups or brodcasting or regular post ?
+
+
+
+if user first time? then send small interductiion to this client? is it possible? 
+

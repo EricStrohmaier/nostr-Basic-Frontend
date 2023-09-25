@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { EventTemplate, Event, getEventHash, SimplePool } from "nostr-tools";
-import { RELAYS } from "../App";
+import { RELAYS } from "../Appi";
 
 interface Props {
   pool: SimplePool;
