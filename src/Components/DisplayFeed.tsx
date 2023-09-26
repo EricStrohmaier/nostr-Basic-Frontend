@@ -25,15 +25,25 @@ const DisplayFeed: FC<DisplayFeedProps> = () => {
               </div>
             </div>
           </div>
-          <div className="p-2 w-[90%] h-[90%] rounded-[20px] flex border-2">
-            <div className="w-full h-fit">
-              FEED COMES HERE
+          <div className="p-2 w-[90%] h-[90%] rounded-[20px] flex border-2 bg-gray-50">
+            <div className="w-full h-fit m-2 ">
               <ProfileCard
                 profilePicUrl={
                   "https://avatars.githubusercontent.com/u/25105806?v=4"
                 }
-                username={"Eric STroh"}
-                postContent={"commit in the morning, commit in the evening"}
+                username={"Not ERic "}
+                npub={"short@handle.nothing"}
+                postContent={"Tester test mr testinger"}
+                // featuredPost={"featured post here"}
+              />
+              <ProfileCard
+                profilePicUrl={
+                  "https://avatars.githubusercontent.com/u/25105806?v=4"
+                }
+                username={"Eric Stroh"}
+                npub={"nbub0x123456789"}
+                postContent={"Tester test mr testinger"}
+                featuredPost={"featured postinger @ \n\n post here"}
               />
             </div>
           </div>

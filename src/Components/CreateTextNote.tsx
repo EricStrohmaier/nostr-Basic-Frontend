@@ -11,7 +11,13 @@ const CreateTextNote: FC<CreateTextNoteProps> = () => {
       <div className="h-80 bg-gray-100 rounded-[40px] border-gray-200 border-2">
         <div className="flex justify-center items-center w-full h-full p-2">
           <div className="p-2 w-[90%] h-[90%] flex">
-            <ProfileImage className="top-5 relative" />
+            <ProfileImage
+              className="top-5 relative"
+              profilePicUrl={
+                "https://avatars.githubusercontent.com/u/122783162?v=4"
+              }
+              username={""}
+            />
             <div className="w-5/6 p-2">
               <div className="flex">
                 <ActionButton title={"Choose Format"} style={"mb-2 mr-2"} />
