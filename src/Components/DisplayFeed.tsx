@@ -31,9 +31,19 @@ const DisplayFeed: FC<DisplayFeedProps> = () => {
                 profilePicUrl={
                   "https://avatars.githubusercontent.com/u/25105806?v=4"
                 }
+                username={"Not ERic "}
+                npub={"short@handle.nothing"}
+                postContent={"Tester test mr testinger"}
+                // featuredPost={"featured post here"}
+              />
+              <ProfileCard
+                profilePicUrl={
+                  "https://avatars.githubusercontent.com/u/25105806?v=4"
+                }
                 username={"Eric Stroh"}
                 npub={"nbub0x123456789"}
                 postContent={"Tester test mr testinger"}
+                featuredPost={"featured postinger @ \n\n post here"}
               />
             </div>
           </div>
