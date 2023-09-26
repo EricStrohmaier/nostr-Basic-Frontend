@@ -33,7 +33,7 @@ const DisplayFeed: FC<DisplayFeedProps> = () => {
                   "https://avatars.githubusercontent.com/u/25105806?v=4"
                 }
                 username={"Eric STroh"}
-                postContent={"Tester test mr testinger"}
+                postContent={"commit in the morning, commit in the evening"}
               />
             </div>
           </div>
